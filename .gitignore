@@ -1,0 +1,10 @@
+.env
+.DS_Store
+/download/*
+/input/*
+/output/*
+/temp/*
+input
+*.mp4
+*.wav
+*.mp3
